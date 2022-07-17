@@ -1,5 +1,8 @@
 'use strict';
 
+const rainbow = 'padding: 0 3px; color: blue;'
+console.log('%cКарточка товара',rainbow)
+
 
 const nameProduct = prompt ('Введите, название, товара');
 const countProduct = prompt ('Укажите, количество, товара');
