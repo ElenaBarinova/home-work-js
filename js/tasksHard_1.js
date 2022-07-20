@@ -1,3 +1,5 @@
+'use strict';
+
 {
   const rainbow = 'padding: 0 3px; color: red;'
   console.log('%cПервый вариант налога',rainbow);
